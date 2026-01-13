@@ -52,7 +52,8 @@ The Streamlit application executes SQL queries on a PostgreSQL database and disp
 - Success Ride Booking 
 <img width="1732" height="677" alt="image" src="https://github.com/user-attachments/assets/127dd58d-fa36-4b77-9897-643a6999b74b" />
 
-– Average Distance by Vehicle
+
+- Average Distance by Vehicle
 <img width="1735" height="516" alt="image" src="https://github.com/user-attachments/assets/b4f581f4-e887-4556-b177-c6975b3a48d7" />
 
 - Customer Cancellations

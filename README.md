@@ -49,22 +49,35 @@ The Streamlit application executes SQL queries on a PostgreSQL database and disp
 
 #### SQL Query Results 
 
-- Success Ride Booking 
+##### Success Ride Booking 
 <img width="1732" height="677" alt="image" src="https://github.com/user-attachments/assets/127dd58d-fa36-4b77-9897-643a6999b74b" />
 
-
-- Average Distance by Vehicle
+##### Average Distance by Vehicle
 <img width="1735" height="516" alt="image" src="https://github.com/user-attachments/assets/b4f581f4-e887-4556-b177-c6975b3a48d7" />
 
-- Customer Cancellations
-<img width="1735" height="516" alt="image" src="https://github.com/user-attachments/assets/e6a51f02-3812-4d8b-844b-d2a7197a505f" />
+##### Customer Cancellations
+<img width="1758" height="572" alt="image" src="https://github.com/user-attachments/assets/0a7c9e55-397b-46e5-ab5f-ced31f40b7a2" />
 
-#### Customer Cancellations
-<img width="1735" height="516" alt="image" src="https://github.com/user-attachments/assets/e6a51f02-3812-4d8b-844b-d2a7197a505f" />
+##### Top 5 customers by successful rides
+<img width="1748" height="440" alt="image" src="https://github.com/user-attachments/assets/a34ba386-d501-44b8-9adc-1ae56307e5c3" />
 
+##### Driver cancellations due to personal/car issues
+<img width="1757" height="278" alt="image" src="https://github.com/user-attachments/assets/f382e511-ad78-46b0-9e22-5f9117835e78" />
 
-#### Incomplete Rides Analysis
-![Incomplete Rides](screenshots/incomplete_rides.png)
+##### Highest & lowest driver rating for Prime Sedan
+<img width="1757" height="260" alt="image" src="https://github.com/user-attachments/assets/a596f7b6-b55f-4a31-b647-4b19db4a9e16" />
+
+##### Rides with UPI Payments
+<img width="1757" height="690" alt="image" src="https://github.com/user-attachments/assets/07766913-a272-4a5e-8427-4e786edab1d1" />
+
+##### Average customer rating by vehicle
+<img width="1747" height="516" alt="image" src="https://github.com/user-attachments/assets/1f4e7c24-31e5-41f8-b1f8-5f9c1c2fe9ad" />
+
+##### Total booking value for successful rides
+<img width="1762" height="344" alt="image" src="https://github.com/user-attachments/assets/c6fdce81-0e59-42ed-8854-b1e21c9a0c22" />
+
+##### Incomplete rides by reason
+<img width="1781" height="434" alt="image" src="https://github.com/user-attachments/assets/b3b2eb7e-6bab-43ad-972a-3515827c2f91" />
 
 ---
 
@@ -85,8 +98,10 @@ The Power BI dashboard provides an **executive-level overview** of the same data
 - 📸 Screenshot 
 <img width="1542" height="845" alt="image" src="https://github.com/user-attachments/assets/603b063d-1da0-431f-9f36-3cb462d98a77" />
 
-- 🌐 Link – Power BI Dashboard
- https://app.powerbi.com/view?r=eyJrIjoiMjNjMzdjZjMtYmFhYy00ZjU5LThmNjUtOTFhODU0MDZiMjI0IiwidCI6IjMxMDYwNmQ3LWJiZGUtNDc4Zi05ZWM0LTRkYjBhM2Q0ZTJkMyJ9
+<br><br>
+- 🌐 Link – Power BI Dashboard <br>
+  [![Power BI](https://img.shields.io/badge/📊_Dashboard-Power_BI-yellow?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiMjNjMzdjZjMtYmFhYy00ZjU5LThmNjUtOTFhODU0MDZiMjI0IiwidCI6IjMxMDYwNmQ3LWJiZGUtNDc4Zi05ZWM0LTRkYjBhM2Q0ZTJkMyJ9)
+ 
 
 
 ---
